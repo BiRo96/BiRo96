@@ -1,5 +1,7 @@
 [![BiRo96's GitHub stats](https://github-readme-stats.vercel.app/api?username=BiRo96&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href="https://app.daily.dev/BiRo96"><img src="https://api.daily.dev/devcards/9eaeb562a35648f3aa348b88a30ee085.png?r=4cu" width="400" alt="Bihary Roland's Dev Card"/></a>
+
 <!--
 **BiRo96/BiRo96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
