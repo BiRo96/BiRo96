@@ -27,7 +27,11 @@
 ![Python_(Learning)](https://img.shields.io/badge/Python_(Learning)-000.svg?style=for-the-badge&logo=python)
 
 ![Photshop](https://img.shields.io/badge/photoshop-ddd.svg?style=for-the-badge&logo=Adobephotoshop)
+![VSCode](https://img.shields.io/badge/VSCode-000.svg?style=for-the-badge&logo=visualstudiocode&logoColor=0078d7)
+![Bash](https://img.shields.io/badge/bash-333.svg?style=for-the-badge&logo=GNUBash)
 
+![Windows](https://img.shields.io/badge/windows-333.svg?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-ccc.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 - :wave: Hi, I’m @BiRo96 
 - :computer: I’m currently working in Web Development
