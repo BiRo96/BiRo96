@@ -35,9 +35,9 @@
 ![Linux](https://img.shields.io/badge/Linux-ccc.svg?style=for-the-badge&logo=linux&logoColor=black)
 
 - :wave: Hi, I’m @BiRo96 
-- :computer: I’m currently working in Web Development
+- :computer: I’m currently unemployed, and looking for a job in Web Development
   - :eyes: But I'm also interested in other platforms to learn 
-- :point_right: My current roles: FullStack
+- :point_right: My roles in the past: FullStack
 
 <div align="center">
 
